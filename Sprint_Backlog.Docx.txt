@@ -1,0 +1,17 @@
+SPRINT BACKLOG ---
+Desafio Sprint Versionamento e metodologia ageis
+Data de início: [22/04/2025]
+Data de término: [29/04/2025]
+Objetivo da Sprint: [Fazer as alterações necessarias que o cliente solicitou]
+
+Itens do Sprint Backlog:
+
+ID: 01
+Título: Alterar a cor da fonte.
+Descrição: ver a fonte com os nomes dos veículos na cor azul para me proporcionar uma melhor experiência de usuário.
+Status: Concluido.
+
+ID: 02
+Título: Nome detalhado nos links
+Descrição: Os nomes dos links para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha navegação no portal.
+Status: Concluido.
