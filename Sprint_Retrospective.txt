@@ -1,17 +1,15 @@
 SPRINT RETROSPECTIVE ----
 Sprint: DESAFIO | VERSIONAMENTO E METODOLOGIAS ÁGEIS
 Data: 29/04/2025
-Duração:(22/04 a 28/04)
+Duração:(22/04 a 29/04)
 Participantes: Equipe de Desenvolvimento, Scrum Master, PO.
 
-1. O que funcionou bem? ✅
-
+1. O que funcionou bem? 
 Entrega dentro do prazo: ID 1 e 3 foram concluídas e validadas conforme os critérios de aceitação.
 Comunicação eficiente: Reuniões diárias (Daily Scrum) ajudaram a identificar bloqueios rapidamente.
 Ferramentas: Uso do Git para versionamento conseguiram garantir a rastreabilidade das alterações.
 
-2. O que não funcionou adequadamente? ❌
-
+2. O que não funcionou adequadamente? 
 Dependência externa: A validação das cores (ID 1) pelo time de design atrasou em 1 dia, impactando o início do desenvolvimento.
 Testes manuais: Falta de automação nos testes de usabilidade consumiu tempo extra.
 
