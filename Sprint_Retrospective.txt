@@ -1,7 +1,7 @@
 SPRINT RETROSPECTIVE ----
 Sprint: DESAFIO | VERSIONAMENTO E METODOLOGIAS ÁGEIS
-Data: 29/04/2025
-Duração:(22/04 a 29/04)
+Data de início: [22/04/2025]
+Data de término: [29/04/2025]
 Participantes: Equipe de Desenvolvimento, Scrum Master, PO.
 
 1. O que funcionou bem? 
